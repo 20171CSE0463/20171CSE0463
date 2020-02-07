@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>Time Table</title>
+<body>
+<h2 align="center">Time Table</h2>
+<table border="1">
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td colspan="2">Al</td>
+<td>GTC</td>
+<td>ooad</td>
+<td>Lunch</td>
+<td colspan="2">IT lab</td>
+</tr>
