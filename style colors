@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>HTML colors</title>
+</head>
+<body>
+<body style="background-image: url('/home/Sem6B7/Desktop/0463/car.jpg');backgroung-repeat:norepeat;>
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+<h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p>
+<h1 style="text-align:center;">Centered &nbsp;&nbsp;&nbsp;</h1>
+<p style="text-align:center;">Centered paragraph</p>
+<p style="font-size:160%;">&lt;tag&gt; &amp; &quot; welcome &quot; i&apos;</p>
+<p style="font-size:160%;">...</p>
+</body>
+</html>
+
+
