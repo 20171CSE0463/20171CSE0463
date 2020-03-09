@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid purple;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 1050px;
+  background-color: lightyellow;
+}
+</style>
+</head>
+<body>
+<div>it is a margin.</div>
+
+</body>
+</html>

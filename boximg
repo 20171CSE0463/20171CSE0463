@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 340px;
+  padding: 10px;
+  border: 20px dotted;
+  border-color:yellow;
+
+}
+</style>
+</head>
+<body>
+
+<h2>Box image</h2>
+
+<div><img src="images.jpeg" width="350" height="263" alt="image"></div>
+
+
+</body>
+</html>
+
